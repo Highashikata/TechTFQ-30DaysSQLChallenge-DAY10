@@ -13,3 +13,18 @@ In this repository we will be going through the SQL interview questions featured
 
 
 **PROBLEM STATEMENT :**
+Create the second table from the 1st one.
+
+![image](https://github.com/Highashikata/TechTFQ-30DaysSQLChallenge-DAY10/assets/96960411/e64fd362-eda2-42f4-8822-20f88b7795b5)
+
+
+**DDL & DML**
+
+```
+
+```
+
+**DQL**
+```
+
+```
